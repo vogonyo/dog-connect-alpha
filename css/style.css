@@ -18,7 +18,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #007bff;
+  --primary: #EAF6FF;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -8360,13 +8360,13 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .4;
-    background: #0028ff;
+    background: #fdcb9e;
     width: 50%;
     height: 100%; }
   .hero-wrap.hero-wrap-2 {
     position: relative; }
     .hero-wrap.hero-wrap-2 .overlay {
-      background: #0028ff;
+      background: #fdcb9e;
       width: 100%;
       opacity: .3; }
 
@@ -8717,7 +8717,7 @@ textarea.form-control {
     bottom: 0;
     content: '';
     opacity: .8;
-    background: #0028ff; }
+    background: #3f3f44; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
@@ -8901,7 +8901,7 @@ textarea.form-control {
     bottom: 0;
     content: '';
     opacity: .7;
-    background: #232931; }
+    background: #676d75; }
   .testimony-section .owl-carousel {
     margin: 0; }
   .testimony-section .owl-carousel .owl-stage-outer {
@@ -9049,7 +9049,7 @@ textarea.form-control {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #0028ff;
+    background: #cceabb;
     opacity: .5;
     z-index: -1; }
   .ftco-vol .heading-section h2 {
@@ -9070,7 +9070,7 @@ textarea.form-control {
     bottom: 0;
     content: '';
     opacity: .4;
-    background: #0028ff;
+    background: #cceabb;
     width: 100%; }
     @media (max-width: 1199.98px) {
       #section-counter .overlay {

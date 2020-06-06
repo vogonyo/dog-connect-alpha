@@ -8,8 +8,8 @@ $white: #fff;
 $black: #000000;
 $darken: #232931;
 
-$primary: #f7e4ea;
-$secondary: #6b76ff;
+$primary: #3f3f44;
+$secondary: #EAF6FF;
 
 
 
@@ -660,16 +660,13 @@ textarea.form-control {
 
 
 .about-author{
-	img{
-	}
+	
 	.desc{
 		h3{
 			font-size: 24px;
 		}
 	}
-	.bio{
-
-	}
+	
 }
 
 
@@ -745,7 +742,7 @@ textarea.form-control {
 	h2{
 		font-family: $font-primary;
 		font-size: 24px;
-		font-weight: 500;
+	font-weight: 500;
 	}
 	.goal{
 		p{
@@ -1474,7 +1471,6 @@ textarea.form-control {
 			a{
 				color: rgba(255,255,255,.8);
 			}
-			span{}
 		}
 	}
 	.box{
@@ -1511,8 +1507,7 @@ textarea.form-control {
 		box-shadow: none!important;
 		font-size: 15px;
 	}
-	#map {
-	}
+	
 }
 
 
